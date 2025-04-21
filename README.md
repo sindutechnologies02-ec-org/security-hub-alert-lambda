@@ -39,10 +39,5 @@ Subscribed an email address to the SNS topic for receiving notifications.
 
 ### **Step 5: Add, Commit, and Push to GitHub**
 
-Now that you have your `README.md` file documenting the project:
 
-1. **Stage the changes**:
-
-   ```bash
-   git add .
 
